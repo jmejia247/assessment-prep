@@ -1,0 +1,25 @@
+body {
+    background-color: lavender;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+    background-color: aqua;
+    width: 75%
+}
+
+.img {
+    width: 100px;
+}
+
+.character-card {
+    background-color: dodgerblue;
+    border-radius: 15px;
+    width: 200px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
